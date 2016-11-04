@@ -1,6 +1,4 @@
 <?php
-echo "Hello World";
-
 function pw_str_check($password, $username = null)
 {
     // Define pw strenght at 0 to start
